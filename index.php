@@ -17,7 +17,6 @@
   <link href="<?php echo get_template_directory_uri();?>/css/photoswipe/default-skin/default-skin.css" media="all" rel="stylesheet" type="text/css" />
   <link href="<?php echo get_template_directory_uri();?>/css/style.css" media="all" rel="stylesheet" type="text/css" />
   <link rel="shortcut icon" href="<?php echo get_template_directory_uri();?>/img/favicon.ico" />
-
 </head>
 
 <body>
@@ -172,7 +171,8 @@
             <div class="skill-list">
               <div class="skill-item">
                 <div class="skill-image-wrapper">
-                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/icon_skill.png" alt="">
+                <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/エンベットアイコン.png" alt="">
+
                 </div>
                 <div class="skill-body">
                   <h3 class="skill-title">HTML/CSS</h3>
@@ -184,7 +184,7 @@
               </div>
               <div class="skill-item">
                 <div class="skill-image-wrapper">
-                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/icon_skill.png" alt="">
+                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/JSアイコン.png" alt="">
                 </div>
                 <div class="skill-body">
                   <h3 class="skill-title">JavaScript</h3>
@@ -196,7 +196,7 @@
               </div>
               <div class="skill-item">
                 <div class="skill-image-wrapper">
-                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/icon_skill.png" alt="">
+                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/ワードプレスのアイコン.png" alt="">
                 </div>
                 <div class="skill-body">
                   <h3 class="skill-title">WordPress</h3>

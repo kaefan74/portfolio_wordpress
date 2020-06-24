@@ -307,6 +307,7 @@ li {
   margin-bottom: 3px;
 }
 
+
 /*--------------------------------
  Contact
 ---------------------------------*/
@@ -520,7 +521,7 @@ li {
     width: 75px;
   }
 
-  .rate5:after {g
+  .rate5:after {
     width: 95px;
   }
 
