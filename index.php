@@ -146,7 +146,7 @@
           <div class="section-body about">
             <div class="about-item">
               <div class="about-image-wrapper">
-                <img class="about-image" src="<?php echo get_template_directory_uri();?>/img/profile/profile.png" alt=""></div>
+                <img class="about-image" src="<?php echo get_template_directory_uri();?>/img/profile/profile写真.jpeg" alt=""></div>
               <div class="about-body">
                 <p>
                   テキストテキストテキストテキストテキストテキストテキストテキストテキスト<br>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
@@ -209,7 +209,7 @@
 
               <div class="skill-item">
                 <div class="skill-image-wrapper">
-                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/icon_skill.png" alt="">
+                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/プログラムアイコン.png" alt="">
                 </div>
                 <div class="skill-body">
                   <h3 class="skill-title">PHP</h3>
@@ -222,7 +222,7 @@
 
               <div class="skill-item">
                 <div class="skill-image-wrapper">
-                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/icon_skill.png" alt="">
+                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/データベースの無料アイコン2.png" alt="">
                 </div>
                 <div class="skill-body">
                   <h3 class="skill-title">MySQL</h3>
@@ -235,7 +235,7 @@
 
               <div class="skill-item">
                 <div class="skill-image-wrapper">
-                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/icon_skill.png" alt="">
+                  <img class="skill-image" src="<?php echo get_template_directory_uri();?>/img/skill/枠つきの羽根ペンのアイコン素材.png" alt="">
                 </div>
                 <div class="skill-body">
                   <h3 class="skill-title">Webライター</h3>
@@ -264,8 +264,8 @@
           </div>
           <div class="section-body contact">
               <div class="contact-item">
-                <a class="contact-image-wrapper" href="#" target="_blank"><img class="contact-image"
-                    src="img/contact/icon_contact.png" alt="">
+                <a class="contact-image-wrapper" href="https://twitter.com/fan_pg_ah" target="_blank"><img class="contact-image"
+                    src="<?php echo get_template_directory_uri();?>/img/contact/twitterのフリーアイコン素材.png" alt="twitterアイコン">
                   <span class="contact-name">Twitter</span></a>
               </div>
           </div>
